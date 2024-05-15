@@ -1,2 +1,2 @@
-# FPO_Ltd_SPA
-FPO - SPA migration
+# HorrorChronicles_SPA
+HorrorChronicles SPA - Coming Soon page
