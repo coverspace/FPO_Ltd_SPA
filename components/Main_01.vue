@@ -66,7 +66,7 @@
     <div class="container">
         <!-- /// ABOUT SECTION /// -->
         <div id="about" class="large-margin">
-            <a href="about"></a><!-- Nav Anchor -->
+            <a href="#about"></a><!-- Nav Anchor -->
             <div class="row heading tiny-margin">
                 <div class="col-md-auto">
                     <h1 class="animation-element slide-down">ABOUT <span class="colored">US</span></h1>
@@ -90,7 +90,7 @@
 
         <!-- /// GAMES SECTION /// -->
         <div id="products" class="large-margin">
-            <a href="products"></a><!-- Nav Anchor -->
+            <a href="#products"></a><!-- Nav Anchor -->
             <div class="row heading tiny-margin">
                 <div class="col-md-auto">
                     <h1 class="animation-element slide-down">OUR <span class="colored">SOFTWARES</span></h1>
@@ -163,7 +163,7 @@
                 <!-- Game Card Video -->
                 <div class="row game-card pc new">
                     <div class="col-lg-12 col-xl-5 game-card-left">
-                        <a href="trRJoP93azI" class="js-video-button" data-video-id='trRJoP93azI' data-channel="youtube"> <!-- Video link goes here -->
+                        <a href="https://www.youtube.com/watch?v=trRJoP93azI" class="js-video-button" data-video-id='trRJoP93azI' data-channel="youtube"> <!-- Video link goes here -->
                             <div class="overlay">
                                 <i class="fa fa-play fa-3x"></i>
                             </div>
@@ -213,7 +213,7 @@
         </div>
         <!-- /// CAREERS SECTION /// -->
         <div id="services" class="large-margin">
-            <a href="services"></a><!-- Nav Anchor -->
+            <a href="#services"></a><!-- Nav Anchor -->
             <div class="row heading tiny-margin">
                 <div class="col-md-auto">
                     <h1 class="animation-element slide-down">OUR <span class="colored">SERVICES</span></h1>
@@ -488,7 +488,7 @@
             </div>
         <!-- /// TEAM SECTION /// -->
         <div id="team" class="large-margin">
-            <a href="team"></a><!-- Nav Anchor -->
+            <a href="#team"></a><!-- Nav Anchor -->
             <div class="row heading tiny-margin">
                 <div class="col-md-auto">
                     <h1 class="animation-element slide-down">THE <span class="colored">TEAM</span></h1>
@@ -521,7 +521,7 @@
             </div>
 		</div>
         <div id="partners" class="large-margin">
-			<a href="partners"></a>
+			<a href="#partners"></a>
 			<div class="row heading tiny-margin">
                 <div class="col-md-auto">
                     <h1 class="animation-element slide-down">OUR <span class="colored">PARTNERS</span></h1>
@@ -550,7 +550,7 @@
         </div>
         <!-- /// CAREERS SECTION /// -->
         <div id="careers" class="large-margin">
-            <a href="careers"></a><!-- Nav Anchor -->
+            <a href="#careers"></a><!-- Nav Anchor -->
             <div class="row heading tiny-margin">
                 <div class="col-md-auto">
                     <h1 class="animation-element slide-down">WE'RE <span class="colored">HIRING</span></h1>
@@ -727,7 +727,7 @@
         </div>
         <!-- /// CONTACT SECTION /// -->
         <div id="contact" class="large-margin">
-            <a href="contact"></a><!-- Nav Anchor -->
+            <a href="#contact"></a><!-- Nav Anchor -->
             <div class="row heading tiny-margin">
                 <div class="col-md-auto">
                     <h1 class="animation-element slide-down">GET IN <span class="colored">TOUCH</span></h1>
