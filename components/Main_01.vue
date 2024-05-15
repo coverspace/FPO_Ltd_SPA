@@ -13,7 +13,7 @@
         <nav class="navbar fixed-top navbar-expand-lg navbar-dark">
             <div class="container">
                 <!-- Site Logo -->
-                <a id="logo" class="navbar-brand" href="#"><NuxtImg class="img-fluid" img width="35%" src="hicoregaminglogo.png" alt="site logo"/></a>
+                <a id="logo" class="navbar-brand" href="#"><NuxtImg class="img-fluid" style="width: 6rem;" img width="35%" src="FPO_logo.png" alt="site logo"/></a>
                 <!-- Dropdown Button -->
                 <button id="hamburger" class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
                         <span class="icon-bar"></span>
