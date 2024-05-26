@@ -49,6 +49,7 @@ export default defineNuxtConfig({
         { src: "validator.min.js" },
         { src: "strider.js" },
         { src: "https://cookieconsent.popupsmart.com/src/js/popper.js" },
+        { src: "nope.js" },
       ],
     },
   },
